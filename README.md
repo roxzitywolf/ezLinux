@@ -14,7 +14,7 @@ the ultimate cachyos performance + gaming setup script
 ## install
 
 ```bash
-curl -fsSL https://roxzitywolf.github.io/ezlinux/ezlinux.sh | bash
+curl -fsSL https://roxzitywolf.github.io/ezlinux.sh | bash
 ```
 
 or via AUR:
